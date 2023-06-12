@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -40,3 +41,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 =======
 # Curso-de-React.js-con-TypeScript
 >>>>>>> 26e844db9f2b4d48fb5777ceca42924934938fd5
+=======
+# Curso-de-React.js-con-TypeScript
+>>>>>>> 7970345f7fa02f1018c978644913343c05a1c42f
